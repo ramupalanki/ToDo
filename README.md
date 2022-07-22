@@ -10,21 +10,20 @@ The framework is based on Java(1.8) + Selenium(4.3.0) + Junit. Reporting is hand
 
 3. Eclipse is optional
 
-4. You should have internet inorder to downloda the dependencies
+4. You should have internet inorder to download the dependencies
 
+5. Clone this code base and put it in any folder
 
-Clone this code base and put it in any folder
-Use commnad prompt and go to its directory by using cd
-run below command
+6. Use commnad prompt and go to its directory by using cd
+
+7. run below command
 
 **mvn clean verify**
-
-This will validate the todo features like
-  creating a todo
-  deleteing a todo
-  completeing a todo
-
-Tests will run on Google Chrome and driver is already part of this code base
+  This will validate the todo features like
+    Creating a todo
+    Deleteing a todo
+    Completeing a todo
+    Tests will run on Google Chrome and driver is already part of this code base
 
 Below Cucumber Report gets generated 
 
