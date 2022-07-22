@@ -14,10 +14,10 @@ Pre-requisites
 
 
 Clone this code base and put it in any folder
-Use commnad prompt
+Use commnad prompt and go to its directory by using cd
 run below command
 
-mvn clean verify
+**mvn clean verify**
 
 This will validate the todo features like
   creating a todo
