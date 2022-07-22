@@ -23,6 +23,9 @@ The framework is based on Java(1.8) + Selenium(4.3.0) + Junit. Reporting is hand
     Creating a todo
     Deleteing a todo
     Completeing a todo
+    
+    ![image](https://user-images.githubusercontent.com/17289805/180502935-198075f4-8911-407d-bec4-a9282231410f.png)
+
     Tests will run on Google Chrome and driver is already part of this code base
 
 Below Cucumber Report gets generated 
