@@ -4,10 +4,14 @@ The framework is based on Java(1.8) + Selenium(4.3.0) + Junit. Reporting is hand
 
 Pre-requisites
 ##############
-Java 1.8 should be installed and ensure that its path is added into environment variables list
-Any recent version of MAVEN should be installed and ensure that its path is added into environment variables list
-Eclipse is optional
-You should have internet inorder to downloda the dependencies
+1. Java 1.8 should be installed and ensure that its path is added into environment variables list
+
+2. Any recent version of MAVEN should be installed and ensure that its path is added into environment variables list
+
+3. Eclipse is optional
+
+4. You should have internet inorder to downloda the dependencies
+
 
 Clone this code base and put it in any folder
 Use commnad prompt
