@@ -24,7 +24,8 @@ The framework is based on Java(1.8) + Selenium(4.3.0) + Junit. Reporting is hand
     Deleteing a todo
     Completeing a todo
     
-    ![image](https://user-images.githubusercontent.com/17289805/180502935-198075f4-8911-407d-bec4-a9282231410f.png)
+ ![image](https://user-images.githubusercontent.com/17289805/180503026-7c85cfb7-2f1b-4d84-8237-9c876733cc9f.png)
+
 
     Tests will run on Google Chrome and driver is already part of this code base
 
