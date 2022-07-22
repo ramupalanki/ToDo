@@ -2,8 +2,8 @@
 
 The framework is based on Java(1.8) + Selenium(4.3.0) + Junit. Reporting is handled by cucumber native itself
 
-Pre-requisites
-##############
+**Pre-requisites**
+
 1. Java 1.8 should be installed and ensure that its path is added into environment variables list
 
 2. Any recent version of MAVEN should be installed and ensure that its path is added into environment variables list
